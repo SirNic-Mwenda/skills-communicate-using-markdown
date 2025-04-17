@@ -1,1 +1,4 @@
-# Communicating in markdown is simle and efficient to developers
+# Communicating in markdown is simple and efficient
+## This is my first markdown file
+### Next line is the smallest
+###### this one
